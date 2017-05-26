@@ -1,0 +1,61 @@
+Team,Year,State,Stadium,Capacity
+LAA,2015,California,Angel Stadium,45957
+LAA,2016,California,Angel Stadium,45493
+SFG,2015,California,AT&T Park,41915
+SFG,2016,California,AT&T Park,41915
+STL,2015,Missouri,Busch Stadium,45399
+STL,2016,Missouri,Busch Stadium,45538
+ARI,2015,Arizona,Chase Field,48519
+ARI,2016,Arizona,Chase Field,48519
+NYM,2015,New York,Citi Field,41922
+NYM,2016,New York,Citi Field,41922
+PHI,2015,Pennsylvania,Citizens Bank Park,43651
+PHI,2016,Pennsylvania,Citizens Bank Park,43651
+CLE,2015,Ohio,Progressive Field,36856
+CLE,2016,Ohio,Progressive Field,35225
+COL,2015,Colorado,Coors Field,50398
+COL,2016,Colorado,Coors Field,50398
+LAD,2015,California,Dodger Stadium,56000
+LAD,2016,California,Dodger Stadium,56000
+BOS,2015,Massachusetts,Fenway Park,37673
+BOS,2016,Massachusetts,Fenway Park,37949
+TEX,2015,Texas,Globe Life Park,48114
+TEX,2016,Texas,Globe Life Park,48114
+CIN,2015,Ohio,Great American Ball Park,42319
+CIN,2016,Ohio,Great American Ball Park,42319
+KCR,2015,Missouri,Kauffman Stadium,37903
+KCR,2016,Missouri,Kauffman Stadium,37903
+MIA,2015,Florida,Marlins Park,36742
+MIA,2016,Florida,Marlins Park,36742
+MIL,2015,Wisconsin,Miller Park,41900
+MIL,2016,Wisconsin,Miller Park,41900
+HOU,2015,Texas,Minute Maid Park,41574
+HOU,2016,Texas,Minute Maid Park,41676
+WSN,2015,Washington DC,Nationals Park,41418
+WSN,2016,Washington DC,Nationals Park,41313
+OAK,2015,California,O.co Coliseum,35067
+OAK,2016,California,O.co Coliseum,35067
+BAL,2015,Maryland,Oriole Park,45971
+BAL,2016,Maryland,Oriole Park,45971
+SDP,2015,California,Petco Park,41164
+SDP,2016,California,Petco Park,40162
+PIT,2015,Pennsylvania,PNC Park,38362
+PIT,2016,Pennsylvania,PNC Park,38362
+TOR,2015,Canada,Rogers Centre,49282
+TOR,2016,Canada,Rogers Centre,49282
+SEA,2015,Washington,Safeco Field,47574
+SEA,2016,Washington,Safeco Field,47943
+MIN,2015,Minnesota,Target Field,39021
+MIN,2016,Minnesota,Target Field,38871
+DET,2015,Michigan,Comerica Park,41574
+DET,2016,Michigan,Comerica Park,41297
+TBR,2015,Florida,Tropicana,31042
+TBR,2016,Florida,Tropicana,31042
+ATL,2015,Georgia,Turner Field,49586
+ATL,2016,Georgia,Turner Field,49586
+CHW,2015,Illinois,US Cellular Field,40615
+CHW,2016,Illinois,US Cellular Field,40615
+CHC,2015,Illinois,Wrigley Field,40929
+CHC,2016,Illinois,Wrigley Field,41268
+NYY,2015,New York,Yankee Stadium II,49638
+NYY,2016,New York,Yankee Stadium II,49469

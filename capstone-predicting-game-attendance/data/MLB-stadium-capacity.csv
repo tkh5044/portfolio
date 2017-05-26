@@ -1,0 +1,789 @@
+Team,Year,State,Stadium,Capacity
+ANA,1997,California,Angel Stadium,33851
+ANA,1998,California,Angel Stadium,45050
+ANA,1999,California,Angel Stadium,45050
+ANA,2000,California,Angel Stadium,45050
+ANA,2001,California,Angel Stadium,45050
+ANA,2002,California,Angel Stadium,45050
+ANA,2003,California,Angel Stadium,45050
+ANA,2004,California,Angel Stadium,45050
+ARI,1998,Arizona,Chase Field,48500
+ARI,1999,Arizona,Chase Field,48500
+ARI,2000,Arizona,Chase Field,48500
+ARI,2001,Arizona,Chase Field,48500
+ARI,2002,Arizona,Chase Field,49033
+ARI,2003,Arizona,Chase Field,49033
+ARI,2004,Arizona,Chase Field,49033
+ARI,2005,Arizona,Chase Field,49033
+ARI,2006,Arizona,Chase Field,49033
+ARI,2007,Arizona,Chase Field,49033
+ARI,2008,Arizona,Chase Field,48711
+ARI,2009,Arizona,Chase Field,48652
+ARI,2010,Arizona,Chase Field,48652
+ARI,2011,Arizona,Chase Field,48633
+ARI,2012,Arizona,Chase Field,48633
+ARI,2013,Arizona,Chase Field,48633
+ARI,2014,Arizona,Chase Field,48633
+ARI,2015,Arizona,Chase Field,48519
+ARI,2016,Arizona,Chase Field,48519
+ATL,1990,Georgia,Fulton County Stadium,52007
+ATL,1991,Georgia,Fulton County Stadium,52007
+ATL,1992,Georgia,Fulton County Stadium,52013
+ATL,1993,Georgia,Fulton County Stadium,52013
+ATL,1994,Georgia,Fulton County Stadium,52013
+ATL,1995,Georgia,Fulton County Stadium,52710
+ATL,1996,Georgia,Fulton County Stadium,52763
+ATL,1997,Georgia,Turner Field,50528
+ATL,1998,Georgia,Turner Field,49714
+ATL,1999,Georgia,Turner Field,49714
+ATL,2000,Georgia,Turner Field,49714
+ATL,2001,Georgia,Turner Field,50096
+ATL,2002,Georgia,Turner Field,50096
+ATL,2003,Georgia,Turner Field,50096
+ATL,2004,Georgia,Turner Field,50096
+ATL,2005,Georgia,Turner Field,50096
+ATL,2006,Georgia,Turner Field,50096
+ATL,2007,Georgia,Turner Field,50096
+ATL,2008,Georgia,Turner Field,49743
+ATL,2009,Georgia,Turner Field,49743
+ATL,2010,Georgia,Turner Field,49743
+ATL,2011,Georgia,Turner Field,49586
+ATL,2012,Georgia,Turner Field,49586
+ATL,2013,Georgia,Turner Field,49586
+ATL,2014,Georgia,Turner Field,49586
+ATL,2015,Georgia,Turner Field,49586
+ATL,2016,Georgia,Turner Field,49586
+BAL,1990,Maryland,Memorial Stadium,54017
+BAL,1991,Maryland,Memorial Stadium,53371
+BAL,1992,Maryland,Oriole Park,48041
+BAL,1993,Maryland,Oriole Park,48041
+BAL,1994,Maryland,Oriole Park,48041
+BAL,1995,Maryland,Oriole Park,48041
+BAL,1996,Maryland,Oriole Park,48041
+BAL,1997,Maryland,Oriole Park,48079
+BAL,1998,Maryland,Oriole Park,48079
+BAL,1999,Maryland,Oriole Park,48079
+BAL,2000,Maryland,Oriole Park,48079
+BAL,2001,Maryland,Oriole Park,48190
+BAL,2002,Maryland,Oriole Park,48190
+BAL,2003,Maryland,Oriole Park,48190
+BAL,2004,Maryland,Oriole Park,48190
+BAL,2005,Maryland,Oriole Park,48290
+BAL,2006,Maryland,Oriole Park,48290
+BAL,2007,Maryland,Oriole Park,48290
+BAL,2008,Maryland,Oriole Park,48290
+BAL,2009,Maryland,Oriole Park,48290
+BAL,2010,Maryland,Oriole Park,48290
+BAL,2011,Maryland,Oriole Park,45971
+BAL,2012,Maryland,Oriole Park,45971
+BAL,2013,Maryland,Oriole Park,45971
+BAL,2014,Maryland,Oriole Park,45971
+BAL,2015,Maryland,Oriole Park,45971
+BAL,2016,Maryland,Oriole Park,45971
+BOS,1990,Massachusetts,Fenway Park,34182
+BOS,1991,Massachusetts,Fenway Park,34171
+BOS,1992,Massachusetts,Fenway Park,33925
+BOS,1993,Massachusetts,Fenway Park,34218
+BOS,1994,Massachusetts,Fenway Park,34218
+BOS,1995,Massachusetts,Fenway Park,33871
+BOS,1996,Massachusetts,Fenway Park,33871
+BOS,1997,Massachusetts,Fenway Park,33871
+BOS,1998,Massachusetts,Fenway Park,33871
+BOS,1999,Massachusetts,Fenway Park,33871
+BOS,2000,Massachusetts,Fenway Park,33871
+BOS,2001,Massachusetts,Fenway Park,33993
+BOS,2002,Massachusetts,Fenway Park,33993
+BOS,2003,Massachusetts,Fenway Park,34898
+BOS,2004,Massachusetts,Fenway Park,35095
+BOS,2005,Massachusetts,Fenway Park,35095
+BOS,2006,Massachusetts,Fenway Park,36108
+BOS,2007,Massachusetts,Fenway Park,36525
+BOS,2008,Massachusetts,Fenway Park,37373
+BOS,2009,Massachusetts,Fenway Park,37400
+BOS,2010,Massachusetts,Fenway Park,37402
+BOS,2011,Massachusetts,Fenway Park,37493
+BOS,2012,Massachusetts,Fenway Park,37495
+BOS,2013,Massachusetts,Fenway Park,37499
+BOS,2014,Massachusetts,Fenway Park,37499
+BOS,2015,Massachusetts,Fenway Park,37673
+BOS,2016,Massachusetts,Fenway Park,37949
+CAL,1990,California,Angel Stadium,64593
+CAL,1991,California,Angel Stadium,64593
+CAL,1992,California,Angel Stadium,64593
+CAL,1993,California,Angel Stadium,64593
+CAL,1994,California,Angel Stadium,64593
+CAL,1995,California,Angel Stadium,64593
+CAL,1996,California,Angel Stadium,64593
+CHC,1990,Illinois,Wrigley Field,38711
+CHC,1991,Illinois,Wrigley Field,38711
+CHC,1992,Illinois,Wrigley Field,38711
+CHC,1993,Illinois,Wrigley Field,38711
+CHC,1994,Illinois,Wrigley Field,38765
+CHC,1995,Illinois,Wrigley Field,38765
+CHC,1996,Illinois,Wrigley Field,38765
+CHC,1997,Illinois,Wrigley Field,38765
+CHC,1998,Illinois,Wrigley Field,38884
+CHC,1999,Illinois,Wrigley Field,38884
+CHC,2000,Illinois,Wrigley Field,38884
+CHC,2001,Illinois,Wrigley Field,39059
+CHC,2002,Illinois,Wrigley Field,39111
+CHC,2003,Illinois,Wrigley Field,39111
+CHC,2004,Illinois,Wrigley Field,39345
+CHC,2005,Illinois,Wrigley Field,39538
+CHC,2006,Illinois,Wrigley Field,41118
+CHC,2007,Illinois,Wrigley Field,41160
+CHC,2008,Illinois,Wrigley Field,41160
+CHC,2009,Illinois,Wrigley Field,41210
+CHC,2010,Illinois,Wrigley Field,41210
+CHC,2011,Illinois,Wrigley Field,41159
+CHC,2012,Illinois,Wrigley Field,41009
+CHC,2013,Illinois,Wrigley Field,41019
+CHC,2014,Illinois,Wrigley Field,41072
+CHC,2015,Illinois,Wrigley Field,40929
+CHC,2016,Illinois,Wrigley Field,41268
+CHW,1990,Illinois,Comiskey Park,43951
+CHW,1991,Illinois,US Cellular Field,44321
+CHW,1992,Illinois,US Cellular Field,44321
+CHW,1993,Illinois,US Cellular Field,44321
+CHW,1994,Illinois,US Cellular Field,44321
+CHW,1995,Illinois,US Cellular Field,44321
+CHW,1996,Illinois,US Cellular Field,44321
+CHW,1997,Illinois,US Cellular Field,44321
+CHW,1998,Illinois,US Cellular Field,44321
+CHW,1999,Illinois,US Cellular Field,44321
+CHW,2000,Illinois,US Cellular Field,44321
+CHW,2001,Illinois,US Cellular Field,47522
+CHW,2002,Illinois,US Cellular Field,47098
+CHW,2003,Illinois,US Cellular Field,47098
+CHW,2004,Illinois,US Cellular Field,40615
+CHW,2005,Illinois,US Cellular Field,40615
+CHW,2006,Illinois,US Cellular Field,40615
+CHW,2007,Illinois,US Cellular Field,40615
+CHW,2008,Illinois,US Cellular Field,40615
+CHW,2009,Illinois,US Cellular Field,40615
+CHW,2010,Illinois,US Cellular Field,40615
+CHW,2011,Illinois,US Cellular Field,40615
+CHW,2012,Illinois,US Cellular Field,40615
+CHW,2013,Illinois,US Cellular Field,40615
+CHW,2014,Illinois,US Cellular Field,40615
+CHW,2015,Illinois,US Cellular Field,40615
+CHW,2016,Illinois,US Cellular Field,40615
+CIN,1990,Ohio,Riverfront Stadium,52392
+CIN,1991,Ohio,Riverfront Stadium,52392
+CIN,1992,Ohio,Riverfront Stadium,52952
+CIN,1993,Ohio,Riverfront Stadium,52952
+CIN,1994,Ohio,Riverfront Stadium,52952
+CIN,1995,Ohio,Riverfront Stadium,52952
+CIN,1996,Ohio,Riverfront Stadium,52952
+CIN,1997,Ohio,Riverfront Stadium,52952
+CIN,1998,Ohio,Riverfront Stadium,52952
+CIN,1999,Ohio,Riverfront Stadium,52952
+CIN,2000,Ohio,Riverfront Stadium,52952
+CIN,2001,Ohio,Riverfront Stadium,40007
+CIN,2002,Ohio,Riverfront Stadium,40007
+CIN,2003,Ohio,Great American Ball Park,42271
+CIN,2004,Ohio,Great American Ball Park,42271
+CIN,2005,Ohio,Great American Ball Park,42271
+CIN,2006,Ohio,Great American Ball Park,42271
+CIN,2007,Ohio,Great American Ball Park,42271
+CIN,2008,Ohio,Great American Ball Park,42319
+CIN,2009,Ohio,Great American Ball Park,42319
+CIN,2010,Ohio,Great American Ball Park,42319
+CIN,2011,Ohio,Great American Ball Park,42319
+CIN,2012,Ohio,Great American Ball Park,42319
+CIN,2013,Ohio,Great American Ball Park,42319
+CIN,2014,Ohio,Great American Ball Park,42319
+CIN,2015,Ohio,Great American Ball Park,42319
+CIN,2016,Ohio,Great American Ball Park,42319
+CLE,1990,Ohio,Cleveland Stadium,74483
+CLE,1991,Ohio,Cleveland Stadium,74483
+CLE,1992,Ohio,Cleveland Stadium,74483
+CLE,1993,Ohio,Cleveland Stadium,74483
+CLE,1994,Ohio,Progressive Field,42865
+CLE,1995,Ohio,Progressive Field,42865
+CLE,1996,Ohio,Progressive Field,42865
+CLE,1997,Ohio,Progressive Field,43368
+CLE,1998,Ohio,Progressive Field,43368
+CLE,1999,Ohio,Progressive Field,43368
+CLE,2000,Ohio,Progressive Field,43368
+CLE,2001,Ohio,Progressive Field,43368
+CLE,2002,Ohio,Progressive Field,43368
+CLE,2003,Ohio,Progressive Field,43368
+CLE,2004,Ohio,Progressive Field,43389
+CLE,2005,Ohio,Progressive Field,43405
+CLE,2006,Ohio,Progressive Field,43415
+CLE,2007,Ohio,Progressive Field,43415
+CLE,2008,Ohio,Progressive Field,43545
+CLE,2009,Ohio,Progressive Field,45199
+CLE,2010,Ohio,Progressive Field,45569
+CLE,2011,Ohio,Progressive Field,43441
+CLE,2012,Ohio,Progressive Field,43429
+CLE,2013,Ohio,Progressive Field,42241
+CLE,2014,Ohio,Progressive Field,42487
+CLE,2015,Ohio,Progressive Field,36856
+CLE,2016,Ohio,Progressive Field,35225
+COL,1993,Colorado,Mile High Stadium,76273
+COL,1994,Colorado,Mile High Stadium,76273
+COL,1995,Colorado,Coors Field,50200
+COL,1996,Colorado,Coors Field,50200
+COL,1997,Colorado,Coors Field,50200
+COL,1998,Colorado,Coors Field,50200
+COL,1999,Colorado,Coors Field,50381
+COL,2000,Colorado,Coors Field,50381
+COL,2001,Colorado,Coors Field,50445
+COL,2002,Colorado,Coors Field,50445
+COL,2003,Colorado,Coors Field,50445
+COL,2004,Colorado,Coors Field,50445
+COL,2005,Colorado,Coors Field,50445
+COL,2006,Colorado,Coors Field,50445
+COL,2007,Colorado,Coors Field,50445
+COL,2008,Colorado,Coors Field,50445
+COL,2009,Colorado,Coors Field,50445
+COL,2010,Colorado,Coors Field,50445
+COL,2011,Colorado,Coors Field,50490
+COL,2012,Colorado,Coors Field,50398
+COL,2013,Colorado,Coors Field,50398
+COL,2014,Colorado,Coors Field,50398
+COL,2015,Colorado,Coors Field,50398
+COL,2016,Colorado,Coors Field,50398
+DET,1990,Michigan,Tiger Stadium,52416
+DET,1991,Michigan,Tiger Stadium,52416
+DET,1992,Michigan,Tiger Stadium,52416
+DET,1993,Michigan,Tiger Stadium,52416
+DET,1994,Michigan,Tiger Stadium,52416
+DET,1995,Michigan,Tiger Stadium,52416
+DET,1996,Michigan,Tiger Stadium,52416
+DET,1997,Michigan,Tiger Stadium,46945
+DET,1998,Michigan,Tiger Stadium,46945
+DET,1999,Michigan,Tiger Stadium,46945
+DET,2000,Michigan,Comerica Park,40120
+DET,2001,Michigan,Comerica Park,40120
+DET,2002,Michigan,Comerica Park,40120
+DET,2003,Michigan,Comerica Park,41070
+DET,2004,Michigan,Comerica Park,41070
+DET,2005,Michigan,Comerica Park,41070
+DET,2006,Michigan,Comerica Park,41070
+DET,2007,Michigan,Comerica Park,41070
+DET,2008,Michigan,Comerica Park,41782
+DET,2009,Michigan,Comerica Park,41255
+DET,2010,Michigan,Comerica Park,41255
+DET,2011,Michigan,Comerica Park,41255
+DET,2012,Michigan,Comerica Park,41255
+DET,2013,Michigan,Comerica Park,41255
+DET,2014,Michigan,Comerica Park,41681
+DET,2015,Michigan,Comerica Park,41574
+DET,2016,Michigan,Comerica Park,41297
+FLA,1993,Florida,Sun Life Stadium,43909
+FLA,1994,Florida,Sun Life Stadium,47662
+FLA,1995,Florida,Sun Life Stadium,46238
+FLA,1996,Florida,Sun Life Stadium,41855
+FLA,1997,Florida,Sun Life Stadium,41855
+FLA,1998,Florida,Sun Life Stadium,42531
+FLA,1999,Florida,Sun Life Stadium,35521
+FLA,2000,Florida,Sun Life Stadium,36331
+FLA,2001,Florida,Sun Life Stadium,36331
+FLA,2002,Florida,Sun Life Stadium,36331
+FLA,2003,Florida,Sun Life Stadium,36331
+FLA,2004,Florida,Sun Life Stadium,36331
+FLA,2005,Florida,Sun Life Stadium,36331
+FLA,2006,Florida,Sun Life Stadium,36331
+FLA,2007,Florida,Sun Life Stadium,36331
+FLA,2008,Florida,Sun Life Stadium,38560
+FLA,2009,Florida,Sun Life Stadium,38560
+FLA,2010,Florida,Sun Life Stadium,38560
+FLA,2011,Florida,Sun Life Stadium,38560
+HOU,1990,Texas,Astrodome,54816
+HOU,1991,Texas,Astrodome,54816
+HOU,1992,Texas,Astrodome,54816
+HOU,1993,Texas,Astrodome,54816
+HOU,1994,Texas,Astrodome,54816
+HOU,1995,Texas,Astrodome,54816
+HOU,1996,Texas,Astrodome,54816
+HOU,1997,Texas,Astrodome,54816
+HOU,1998,Texas,Astrodome,54816
+HOU,1999,Texas,Astrodome,54816
+HOU,2000,Texas,Minute Maid Park,40950
+HOU,2001,Texas,Minute Maid Park,40950
+HOU,2002,Texas,Minute Maid Park,40950
+HOU,2003,Texas,Minute Maid Park,40950
+HOU,2004,Texas,Minute Maid Park,40950
+HOU,2005,Texas,Minute Maid Park,40950
+HOU,2006,Texas,Minute Maid Park,40976
+HOU,2007,Texas,Minute Maid Park,40976
+HOU,2008,Texas,Minute Maid Park,40976
+HOU,2009,Texas,Minute Maid Park,40976
+HOU,2010,Texas,Minute Maid Park,40976
+HOU,2011,Texas,Minute Maid Park,40963
+HOU,2012,Texas,Minute Maid Park,40981
+HOU,2013,Texas,Minute Maid Park,42060
+HOU,2014,Texas,Minute Maid Park,42060
+HOU,2015,Texas,Minute Maid Park,41574
+HOU,2016,Texas,Minute Maid Park,41676
+KCR,1990,Missouri,Kauffman Stadium,40625
+KCR,1991,Missouri,Kauffman Stadium,40625
+KCR,1992,Missouri,Kauffman Stadium,40625
+KCR,1993,Missouri,Kauffman Stadium,40625
+KCR,1994,Missouri,Kauffman Stadium,40625
+KCR,1995,Missouri,Kauffman Stadium,40625
+KCR,1996,Missouri,Kauffman Stadium,40625
+KCR,1997,Missouri,Kauffman Stadium,40625
+KCR,1998,Missouri,Kauffman Stadium,40625
+KCR,1999,Missouri,Kauffman Stadium,40625
+KCR,2000,Missouri,Kauffman Stadium,40625
+KCR,2001,Missouri,Kauffman Stadium,40625
+KCR,2002,Missouri,Kauffman Stadium,40625
+KCR,2003,Missouri,Kauffman Stadium,40625
+KCR,2004,Missouri,Kauffman Stadium,40625
+KCR,2005,Missouri,Kauffman Stadium,40625
+KCR,2006,Missouri,Kauffman Stadium,40625
+KCR,2007,Missouri,Kauffman Stadium,40625
+KCR,2008,Missouri,Kauffman Stadium,40625
+KCR,2009,Missouri,Kauffman Stadium,37903
+KCR,2010,Missouri,Kauffman Stadium,37903
+KCR,2011,Missouri,Kauffman Stadium,37903
+KCR,2012,Missouri,Kauffman Stadium,37903
+KCR,2013,Missouri,Kauffman Stadium,37903
+KCR,2014,Missouri,Kauffman Stadium,37903
+KCR,2015,Missouri,Kauffman Stadium,37903
+KCR,2016,Missouri,Kauffman Stadium,37903
+LAA,2005,California,Angel Stadium,45050
+LAA,2006,California,Angel Stadium,45262
+LAA,2007,California,Angel Stadium,45262
+LAA,2008,California,Angel Stadium,45281
+LAA,2009,California,Angel Stadium,45281
+LAA,2010,California,Angel Stadium,45389
+LAA,2011,California,Angel Stadium,45389
+LAA,2012,California,Angel Stadium,45957
+LAA,2013,California,Angel Stadium,45483
+LAA,2014,California,Angel Stadium,45483
+LAA,2015,California,Angel Stadium,45957
+LAA,2016,California,Angel Stadium,45493
+LAD,1990,California,Dodger Stadium,56000
+LAD,1991,California,Dodger Stadium,56000
+LAD,1992,California,Dodger Stadium,56000
+LAD,1993,California,Dodger Stadium,56000
+LAD,1994,California,Dodger Stadium,56000
+LAD,1995,California,Dodger Stadium,56000
+LAD,1996,California,Dodger Stadium,56000
+LAD,1997,California,Dodger Stadium,56000
+LAD,1998,California,Dodger Stadium,56000
+LAD,1999,California,Dodger Stadium,56000
+LAD,2000,California,Dodger Stadium,56000
+LAD,2001,California,Dodger Stadium,56000
+LAD,2002,California,Dodger Stadium,56000
+LAD,2003,California,Dodger Stadium,56000
+LAD,2004,California,Dodger Stadium,56000
+LAD,2005,California,Dodger Stadium,56000
+LAD,2006,California,Dodger Stadium,56000
+LAD,2007,California,Dodger Stadium,56000
+LAD,2008,California,Dodger Stadium,56000
+LAD,2009,California,Dodger Stadium,56000
+LAD,2010,California,Dodger Stadium,56000
+LAD,2011,California,Dodger Stadium,56000
+LAD,2012,California,Dodger Stadium,56000
+LAD,2013,California,Dodger Stadium,56000
+LAD,2014,California,Dodger Stadium,56000
+LAD,2015,California,Dodger Stadium,56000
+LAD,2016,California,Dodger Stadium,56000
+MIA,2012,Florida,Marlins Park,36742
+MIA,2013,Florida,Marlins Park,36742
+MIA,2014,Florida,Marlins Park,36742
+MIA,2015,Florida,Marlins Park,36742
+MIA,2016,Florida,Marlins Park,36742
+MIL,1990,Wisconsin,Milwaukee County Stadium,53192
+MIL,1991,Wisconsin,Milwaukee County Stadium,53192
+MIL,1992,Wisconsin,Milwaukee County Stadium,53192
+MIL,1993,Wisconsin,Milwaukee County Stadium,53192
+MIL,1994,Wisconsin,Milwaukee County Stadium,53192
+MIL,1995,Wisconsin,Milwaukee County Stadium,53192
+MIL,1996,Wisconsin,Milwaukee County Stadium,53192
+MIL,1997,Wisconsin,Milwaukee County Stadium,53192
+MIL,1998,Wisconsin,Milwaukee County Stadium,53192
+MIL,1999,Wisconsin,Milwaukee County Stadium,53192
+MIL,2000,Wisconsin,Milwaukee County Stadium,53192
+MIL,2001,Wisconsin,Miller Park,41900
+MIL,2002,Wisconsin,Miller Park,41900
+MIL,2003,Wisconsin,Miller Park,41900
+MIL,2004,Wisconsin,Miller Park,41900
+MIL,2005,Wisconsin,Miller Park,41900
+MIL,2006,Wisconsin,Miller Park,41900
+MIL,2007,Wisconsin,Miller Park,41900
+MIL,2008,Wisconsin,Miller Park,41900
+MIL,2009,Wisconsin,Miller Park,41900
+MIL,2010,Wisconsin,Miller Park,41900
+MIL,2011,Wisconsin,Miller Park,41900
+MIL,2012,Wisconsin,Miller Park,41900
+MIL,2013,Wisconsin,Miller Park,41900
+MIL,2014,Wisconsin,Miller Park,41900
+MIL,2015,Wisconsin,Miller Park,41900
+MIL,2016,Wisconsin,Miller Park,41900
+MIN,1990,Minnesota,Metrodome,55883
+MIN,1991,Minnesota,Metrodome,55883
+MIN,1992,Minnesota,Metrodome,55883
+MIN,1993,Minnesota,Metrodome,55883
+MIN,1994,Minnesota,Metrodome,55883
+MIN,1995,Minnesota,Metrodome,56783
+MIN,1996,Minnesota,Metrodome,56783
+MIN,1997,Minnesota,Metrodome,56783
+MIN,1998,Minnesota,Metrodome,48678
+MIN,1999,Minnesota,Metrodome,48678
+MIN,2000,Minnesota,Metrodome,48678
+MIN,2001,Minnesota,Metrodome,48678
+MIN,2002,Minnesota,Metrodome,48678
+MIN,2003,Minnesota,Metrodome,48678
+MIN,2004,Minnesota,Metrodome,45423
+MIN,2005,Minnesota,Metrodome,45423
+MIN,2006,Minnesota,Metrodome,45423
+MIN,2007,Minnesota,Metrodome,45423
+MIN,2008,Minnesota,Metrodome,45423
+MIN,2009,Minnesota,Metrodome,45423
+MIN,2010,Minnesota,Target Field,39504
+MIN,2011,Minnesota,Target Field,39504
+MIN,2012,Minnesota,Target Field,39504
+MIN,2013,Minnesota,Target Field,39021
+MIN,2014,Minnesota,Target Field,39021
+MIN,2015,Minnesota,Target Field,39021
+MIN,2016,Minnesota,Target Field,38871
+MON,1990,Canada,Olympic Stadium,45757
+MON,1991,Canada,Olympic Stadium,45757
+MON,1992,Canada,Olympic Stadium,45757
+MON,1993,Canada,Olympic Stadium,45757
+MON,1994,Canada,Olympic Stadium,45757
+MON,1995,Canada,Olympic Stadium,45757
+MON,1996,Canada,Olympic Stadium,45757
+MON,1997,Canada,Olympic Stadium,45757
+MON,1998,Canada,Olympic Stadium,45757
+MON,1999,Canada,Olympic Stadium,45757
+MON,2000,Canada,Olympic Stadium,45757
+MON,2001,Canada,Olympic Stadium,45757
+MON,2002,Canada,Olympic Stadium,45757
+MON,2003,Canada,Olympic Stadium,45757
+MON,2004,Canada,Olympic Stadium,45757
+NYM,1990,New York,Shea Stadium,55601
+NYM,1991,New York,Shea Stadium,55601
+NYM,1992,New York,Shea Stadium,55601
+NYM,1993,New York,Shea Stadium,55601
+NYM,1994,New York,Shea Stadium,55777
+NYM,1995,New York,Shea Stadium,55777
+NYM,1996,New York,Shea Stadium,55777
+NYM,1997,New York,Shea Stadium,55777
+NYM,1998,New York,Shea Stadium,55777
+NYM,1999,New York,Shea Stadium,55777
+NYM,2000,New York,Shea Stadium,55777
+NYM,2001,New York,Shea Stadium,55777
+NYM,2002,New York,Shea Stadium,56749
+NYM,2003,New York,Shea Stadium,56749
+NYM,2004,New York,Shea Stadium,57405
+NYM,2005,New York,Shea Stadium,57369
+NYM,2006,New York,Shea Stadium,57333
+NYM,2007,New York,Shea Stadium,57333
+NYM,2008,New York,Shea Stadium,57333
+NYM,2009,New York,Citi Field,41800
+NYM,2010,New York,Citi Field,41800
+NYM,2011,New York,Citi Field,41800
+NYM,2012,New York,Citi Field,41922
+NYM,2013,New York,Citi Field,41922
+NYM,2014,New York,Citi Field,41922
+NYM,2015,New York,Citi Field,41922
+NYM,2016,New York,Citi Field,41922
+NYY,1990,New York,Yankee Stadium I,57545
+NYY,1991,New York,Yankee Stadium I,57545
+NYY,1992,New York,Yankee Stadium I,57545
+NYY,1993,New York,Yankee Stadium I,57545
+NYY,1994,New York,Yankee Stadium I,57545
+NYY,1995,New York,Yankee Stadium I,57545
+NYY,1996,New York,Yankee Stadium I,57545
+NYY,1997,New York,Yankee Stadium I,57545
+NYY,1998,New York,Yankee Stadium I,57545
+NYY,1999,New York,Yankee Stadium I,57545
+NYY,2000,New York,Yankee Stadium I,57545
+NYY,2001,New York,Yankee Stadium I,57545
+NYY,2002,New York,Yankee Stadium I,57545
+NYY,2003,New York,Yankee Stadium I,57478
+NYY,2004,New York,Yankee Stadium I,57478
+NYY,2005,New York,Yankee Stadium I,56936
+NYY,2006,New York,Yankee Stadium I,56936
+NYY,2007,New York,Yankee Stadium I,56936
+NYY,2008,New York,Yankee Stadium I,56936
+NYY,2009,New York,Yankee Stadium II,50287
+NYY,2010,New York,Yankee Stadium II,50287
+NYY,2011,New York,Yankee Stadium II,50291
+NYY,2012,New York,Yankee Stadium II,50291
+NYY,2013,New York,Yankee Stadium II,50291
+NYY,2014,New York,Yankee Stadium II,49642
+NYY,2015,New York,Yankee Stadium II,49638
+NYY,2016,New York,Yankee Stadium II,49469
+OAK,1990,California,O.co Coliseum,48219
+OAK,1991,California,O.co Coliseum,47450
+OAK,1992,California,O.co Coliseum,47313
+OAK,1993,California,O.co Coliseum,47313
+OAK,1994,California,O.co Coliseum,47313
+OAK,1995,California,O.co Coliseum,47313
+OAK,1996,California,O.co Coliseum,39875
+OAK,1997,California,O.co Coliseum,39875
+OAK,1998,California,O.co Coliseum,43662
+OAK,1999,California,O.co Coliseum,43662
+OAK,2000,California,O.co Coliseum,43662
+OAK,2001,California,O.co Coliseum,43662
+OAK,2002,California,O.co Coliseum,43662
+OAK,2003,California,O.co Coliseum,43662
+OAK,2004,California,O.co Coliseum,43662
+OAK,2005,California,O.co Coliseum,43662
+OAK,2006,California,O.co Coliseum,34077
+OAK,2007,California,O.co Coliseum,34077
+OAK,2008,California,O.co Coliseum,35067
+OAK,2009,California,O.co Coliseum,35067
+OAK,2010,California,O.co Coliseum,35067
+OAK,2011,California,O.co Coliseum,35067
+OAK,2012,California,O.co Coliseum,35067
+OAK,2013,California,O.co Coliseum,35067
+OAK,2014,California,O.co Coliseum,35067
+OAK,2015,California,O.co Coliseum,35067
+OAK,2016,California,O.co Coliseum,35067
+PHI,1990,Pennsylvania,Veterans Stadium,62382
+PHI,1991,Pennsylvania,Veterans Stadium,62382
+PHI,1992,Pennsylvania,Veterans Stadium,62382
+PHI,1993,Pennsylvania,Veterans Stadium,62586
+PHI,1994,Pennsylvania,Veterans Stadium,62530
+PHI,1995,Pennsylvania,Veterans Stadium,62530
+PHI,1996,Pennsylvania,Veterans Stadium,62136
+PHI,1997,Pennsylvania,Veterans Stadium,62136
+PHI,1998,Pennsylvania,Veterans Stadium,62363
+PHI,1999,Pennsylvania,Veterans Stadium,62363
+PHI,2000,Pennsylvania,Veterans Stadium,62363
+PHI,2001,Pennsylvania,Veterans Stadium,61831
+PHI,2002,Pennsylvania,Veterans Stadium,61831
+PHI,2003,Pennsylvania,Veterans Stadium,61831
+PHI,2004,Pennsylvania,Citizens Bank Park,43500
+PHI,2005,Pennsylvania,Citizens Bank Park,43500
+PHI,2006,Pennsylvania,Citizens Bank Park,43308
+PHI,2007,Pennsylvania,Citizens Bank Park,43647
+PHI,2008,Pennsylvania,Citizens Bank Park,43647
+PHI,2009,Pennsylvania,Citizens Bank Park,43647
+PHI,2010,Pennsylvania,Citizens Bank Park,43647
+PHI,2011,Pennsylvania,Citizens Bank Park,43651
+PHI,2012,Pennsylvania,Citizens Bank Park,43651
+PHI,2013,Pennsylvania,Citizens Bank Park,43651
+PHI,2014,Pennsylvania,Citizens Bank Park,43651
+PHI,2015,Pennsylvania,Citizens Bank Park,43651
+PHI,2016,Pennsylvania,Citizens Bank Park,43651
+PIT,1990,Pennsylvania,Three Rivers Stadium,58729
+PIT,1991,Pennsylvania,Three Rivers Stadium,58729
+PIT,1992,Pennsylvania,Three Rivers Stadium,58729
+PIT,1993,Pennsylvania,Three Rivers Stadium,47952
+PIT,1994,Pennsylvania,Three Rivers Stadium,47952
+PIT,1995,Pennsylvania,Three Rivers Stadium,47952
+PIT,1996,Pennsylvania,Three Rivers Stadium,47952
+PIT,1997,Pennsylvania,Three Rivers Stadium,47952
+PIT,1998,Pennsylvania,Three Rivers Stadium,47952
+PIT,1999,Pennsylvania,Three Rivers Stadium,47952
+PIT,2000,Pennsylvania,Three Rivers Stadium,47952
+PIT,2001,Pennsylvania,PNC Park,37898
+PIT,2002,Pennsylvania,PNC Park,37898
+PIT,2003,Pennsylvania,PNC Park,37898
+PIT,2004,Pennsylvania,PNC Park,38496
+PIT,2005,Pennsylvania,PNC Park,38496
+PIT,2006,Pennsylvania,PNC Park,38496
+PIT,2007,Pennsylvania,PNC Park,38496
+PIT,2008,Pennsylvania,PNC Park,38362
+PIT,2009,Pennsylvania,PNC Park,38362
+PIT,2010,Pennsylvania,PNC Park,38362
+PIT,2011,Pennsylvania,PNC Park,38362
+PIT,2012,Pennsylvania,PNC Park,38362
+PIT,2013,Pennsylvania,PNC Park,38362
+PIT,2014,Pennsylvania,PNC Park,38362
+PIT,2015,Pennsylvania,PNC Park,38362
+PIT,2016,Pennsylvania,PNC Park,38362
+SDP,1990,California,Qualcomm Stadium,59022
+SDP,1991,California,Qualcomm Stadium,59254
+SDP,1992,California,Qualcomm Stadium,59700
+SDP,1993,California,Qualcomm Stadium,59411
+SDP,1994,California,Qualcomm Stadium,46510
+SDP,1995,California,Qualcomm Stadium,47750
+SDP,1996,California,Qualcomm Stadium,49639
+SDP,1997,California,Qualcomm Stadium,59771
+SDP,1998,California,Qualcomm Stadium,67544
+SDP,1999,California,Qualcomm Stadium,66307
+SDP,2000,California,Qualcomm Stadium,66307
+SDP,2001,California,Qualcomm Stadium,66307
+SDP,2002,California,Qualcomm Stadium,66307
+SDP,2003,California,Qualcomm Stadium,63890
+SDP,2004,California,Petco Park,42445
+SDP,2005,California,Petco Park,42445
+SDP,2006,California,Petco Park,42445
+SDP,2007,California,Petco Park,42445
+SDP,2008,California,Petco Park,42691
+SDP,2009,California,Petco Park,42691
+SDP,2010,California,Petco Park,42691
+SDP,2011,California,Petco Park,42691
+SDP,2012,California,Petco Park,42691
+SDP,2013,California,Petco Park,42524
+SDP,2014,California,Petco Park,42302
+SDP,2015,California,Petco Park,41164
+SDP,2016,California,Petco Park,40162
+SEA,1990,Washington,Kingdome,58850
+SEA,1991,Washington,Kingdome,57748
+SEA,1992,Washington,Kingdome,57748
+SEA,1993,Washington,Kingdome,57748
+SEA,1994,Washington,Kingdome,59166
+SEA,1995,Washington,Kingdome,59166
+SEA,1996,Washington,Kingdome,59166
+SEA,1997,Washington,Kingdome,59166
+SEA,1998,Washington,Kingdome,59166
+SEA,1999,Washington,Kingdome,59166
+SEA,2000,Washington,Safeco Field,47116
+SEA,2001,Washington,Safeco Field,47116
+SEA,2002,Washington,Safeco Field,47116
+SEA,2003,Washington,Safeco Field,47116
+SEA,2004,Washington,Safeco Field,47447
+SEA,2005,Washington,Safeco Field,47447
+SEA,2006,Washington,Safeco Field,47447
+SEA,2007,Washington,Safeco Field,47447
+SEA,2008,Washington,Safeco Field,47447
+SEA,2009,Washington,Safeco Field,47878
+SEA,2010,Washington,Safeco Field,47878
+SEA,2011,Washington,Safeco Field,47878
+SEA,2012,Washington,Safeco Field,47860
+SEA,2013,Washington,Safeco Field,47476
+SEA,2014,Washington,Safeco Field,47476
+SEA,2015,Washington,Safeco Field,47574
+SEA,2016,Washington,Safeco Field,47943
+SFG,1990,California,Candlestick Park,62000
+SFG,1991,California,Candlestick Park,62000
+SFG,1992,California,Candlestick Park,62000
+SFG,1993,California,Candlestick Park,58000
+SFG,1994,California,Candlestick Park,58000
+SFG,1995,California,Candlestick Park,58000
+SFG,1996,California,Candlestick Park,58000
+SFG,1997,California,Candlestick Park,58000
+SFG,1998,California,Candlestick Park,58000
+SFG,1999,California,Candlestick Park,58000
+SFG,2000,California,AT&T Park,40930
+SFG,2001,California,AT&T Park,41059
+SFG,2002,California,AT&T Park,41059
+SFG,2003,California,AT&T Park,41503
+SFG,2004,California,AT&T Park,41503
+SFG,2005,California,AT&T Park,41584
+SFG,2006,California,AT&T Park,41606
+SFG,2007,California,AT&T Park,41915
+SFG,2008,California,AT&T Park,41915
+SFG,2009,California,AT&T Park,41915
+SFG,2010,California,AT&T Park,41915
+SFG,2011,California,AT&T Park,41915
+SFG,2012,California,AT&T Park,41915
+SFG,2013,California,AT&T Park,41915
+SFG,2014,California,AT&T Park,41915
+SFG,2015,California,AT&T Park,41915
+SFG,2016,California,AT&T Park,41915
+STL,1990,Missouri,Busch Memorial Stadium,54727
+STL,1991,Missouri,Busch Memorial Stadium,54727
+STL,1992,Missouri,Busch Memorial Stadium,54727
+STL,1993,Missouri,Busch Memorial Stadium,54727
+STL,1994,Missouri,Busch Memorial Stadium,54727
+STL,1995,Missouri,Busch Memorial Stadium,57078
+STL,1996,Missouri,Busch Memorial Stadium,57673
+STL,1997,Missouri,Busch Memorial Stadium,49676
+STL,1998,Missouri,Busch Memorial Stadium,49676
+STL,1999,Missouri,Busch Memorial Stadium,49676
+STL,2000,Missouri,Busch Memorial Stadium,49676
+STL,2001,Missouri,Busch Memorial Stadium,50354
+STL,2002,Missouri,Busch Memorial Stadium,50354
+STL,2003,Missouri,Busch Memorial Stadium,50354
+STL,2004,Missouri,Busch Memorial Stadium,50345
+STL,2005,Missouri,Busch Memorial Stadium,50345
+STL,2006,Missouri,Busch Stadium,43975
+STL,2007,Missouri,Busch Stadium,43975
+STL,2008,Missouri,Busch Stadium,43975
+STL,2009,Missouri,Busch Stadium,43975
+STL,2010,Missouri,Busch Stadium,43975
+STL,2011,Missouri,Busch Stadium,43975
+STL,2012,Missouri,Busch Stadium,43975
+STL,2013,Missouri,Busch Stadium,43975
+STL,2014,Missouri,Busch Stadium,45399
+STL,2015,Missouri,Busch Stadium,45399
+STL,2016,Missouri,Busch Stadium,45538
+TBD,1998,Florida,Tropicana,45369
+TBD,1999,Florida,Tropicana,44027
+TBD,2000,Florida,Tropicana,44445
+TBD,2001,Florida,Tropicana,44445
+TBD,2002,Florida,Tropicana,43772
+TBD,2003,Florida,Tropicana,43772
+TBD,2004,Florida,Tropicana,43772
+TBD,2005,Florida,Tropicana,43772
+TBD,2006,Florida,Tropicana,43772
+TBD,2007,Florida,Tropicana,38437
+TBR,2008,Florida,Tropicana,36048
+TBR,2009,Florida,Tropicana,36973
+TBR,2010,Florida,Tropicana,36973
+TBR,2011,Florida,Tropicana,34078
+TBR,2012,Florida,Tropicana,34078
+TBR,2013,Florida,Tropicana,34078
+TBR,2014,Florida,Tropicana,31042
+TBR,2015,Florida,Tropicana,31042
+TBR,2016,Florida,Tropicana,31042
+TEX,1990,Texas,Arlington Stadium,43508
+TEX,1991,Texas,Arlington Stadium,43521
+TEX,1992,Texas,Arlington Stadium,43521
+TEX,1993,Texas,Arlington Stadium,43521
+TEX,1994,Texas,Globe Life Park,49292
+TEX,1995,Texas,Globe Life Park,49292
+TEX,1996,Texas,Globe Life Park,49178
+TEX,1997,Texas,Globe Life Park,49166
+TEX,1998,Texas,Globe Life Park,49166
+TEX,1999,Texas,Globe Life Park,49166
+TEX,2000,Texas,Globe Life Park,49115
+TEX,2001,Texas,Globe Life Park,49115
+TEX,2002,Texas,Globe Life Park,49115
+TEX,2003,Texas,Globe Life Park,49115
+TEX,2004,Texas,Globe Life Park,49115
+TEX,2005,Texas,Globe Life Park,49115
+TEX,2006,Texas,Globe Life Park,48911
+TEX,2007,Texas,Globe Life Park,48911
+TEX,2008,Texas,Globe Life Park,48911
+TEX,2009,Texas,Globe Life Park,49170
+TEX,2010,Texas,Globe Life Park,49170
+TEX,2011,Texas,Globe Life Park,49170
+TEX,2012,Texas,Globe Life Park,48194
+TEX,2013,Texas,Globe Life Park,48114
+TEX,2014,Texas,Globe Life Park,48114
+TEX,2015,Texas,Globe Life Park,48114
+TEX,2016,Texas,Globe Life Park,48114
+TOR,1990,Canada,Rogers Centre,50516
+TOR,1991,Canada,Rogers Centre,50516
+TOR,1992,Canada,Rogers Centre,50516
+TOR,1993,Canada,Rogers Centre,50516
+TOR,1994,Canada,Rogers Centre,50516
+TOR,1995,Canada,Rogers Centre,50516
+TOR,1996,Canada,Rogers Centre,50516
+TOR,1997,Canada,Rogers Centre,50516
+TOR,1998,Canada,Rogers Centre,50516
+TOR,1999,Canada,Rogers Centre,45100
+TOR,2000,Canada,Rogers Centre,45100
+TOR,2001,Canada,Rogers Centre,45100
+TOR,2002,Canada,Rogers Centre,45100
+TOR,2003,Canada,Rogers Centre,50516
+TOR,2004,Canada,Rogers Centre,50516
+TOR,2005,Canada,Rogers Centre,50598
+TOR,2006,Canada,Rogers Centre,50598
+TOR,2007,Canada,Rogers Centre,48900
+TOR,2008,Canada,Rogers Centre,49539
+TOR,2009,Canada,Rogers Centre,49539
+TOR,2010,Canada,Rogers Centre,49539
+TOR,2011,Canada,Rogers Centre,49260
+TOR,2012,Canada,Rogers Centre,49260
+TOR,2013,Canada,Rogers Centre,49282
+TOR,2014,Canada,Rogers Centre,49282
+TOR,2015,Canada,Rogers Centre,49282
+TOR,2016,Canada,Rogers Centre,49282
+WSN,2005,Washington DC,RFK Memorial Stadium,45596
+WSN,2006,Washington DC,RFK Memorial Stadium,45596
+WSN,2007,Washington DC,RFK Memorial Stadium,45596
+WSN,2008,Washington DC,Nationals Park,41888
+WSN,2009,Washington DC,Nationals Park,41888
+WSN,2010,Washington DC,Nationals Park,41546
+WSN,2011,Washington DC,Nationals Park,41546
+WSN,2012,Washington DC,Nationals Park,41487
+WSN,2013,Washington DC,Nationals Park,41418
+WSN,2014,Washington DC,Nationals Park,41418
+WSN,2015,Washington DC,Nationals Park,41418
+WSN,2016,Washington DC,Nationals Park,41313
